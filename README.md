@@ -1,5 +1,5 @@
 # ESP32_HC-SRF04
-Generic example on how to program a range finder sensor using interrupts.
+Generic example on how to program a HC-SR04 range finder sensor using ESP32 interrupts.
 The trigger signal is delivered through a hw_timer interrupt. 
 The duration of the echo signal is measured via an external interrupt on the echo signal pin.
 
