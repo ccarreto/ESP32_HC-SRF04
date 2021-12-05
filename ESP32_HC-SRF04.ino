@@ -10,6 +10,7 @@
 #define TRIGGER_PIN 4                                  // Trigger pin
 #define ECHO_PIN 5                                     // Echo pin
 
+
 hw_timer_t * timer = NULL;                             // The timer
 //portMUX_TYPE timerMux = portMUX_INITIALIZER_UNLOCKED;  
 
